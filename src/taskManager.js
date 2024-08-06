@@ -17,6 +17,12 @@ class TaskManager {
         task.completed = true;
       }
     }
+    /*updateTaskTitle(oldTitle, newTitle) {
+      const task = this.tasks.find(task => task.title === oldTitle);
+      if (task) {
+        task.title = newTitle;
+      }
+    }*/
   
     getTasks() {
       return this.tasks;
