@@ -6,9 +6,9 @@
   "test": "cucumber-js"
 },
   "keywords": [],
-  "author": "",
+  "author": "AJ",
   "license": "ISC",
-  "description": "",
+  "description": "Basic BDD example",
   "devDependencies": {
     "@cucumber/cucumber": "^10.8.0"
   }
