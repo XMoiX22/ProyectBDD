@@ -29,7 +29,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local.
 
    ```bash
    git clone https://github.com/XMoiX22/ProyectBDD
-   cd XMoiX22/ProyectBDD
+   cd (Entrar en el proytecto).
    ```
 
 2. Instala las dependencias:
